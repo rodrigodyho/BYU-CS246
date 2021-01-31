@@ -1,0 +1,2 @@
+This text file was created to show an example of how to 
+create a repository on GitHub.
